@@ -1,0 +1,22 @@
+# Files
+**/*.pyc
+**/*.pyz
+**/*.log
+**/*.pdf
+**/*.doc
+**/*.docx
+**/*.ppt
+**/*.pptx
+**/*.csv
+**/*.xls
+**/*.xlsx
+**/*.pkl
+**/*.ZIP
+
+# Directories
+**/*.idea/
+**/*.egg-info/
+**/*.cnf
+
+# OSX
+__MACOSX*
